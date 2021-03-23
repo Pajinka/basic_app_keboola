@@ -11,3 +11,4 @@ my_secret.txt
 .dockerignore
 
 # kbc datafolder
+config_template.json

@@ -16,9 +16,6 @@ DEFAULT_FILE_INPUT = "/data/in/files/"
 
 DEFAULT_FILE_DESTINATION = "/data/out/files/"
 DEFAULT_TABLE_DESTINATION = "/data/out/tables/"
-# configuration variables
-KEY_API_TOKEN = '#api_token'
-KEY_PRINT_HELLO = 'print_hello'
 
 # #### Keep for debug
 KEY_DEBUG = 'debug'
